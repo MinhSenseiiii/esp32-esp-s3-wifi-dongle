@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
   "app": {
-    "id": "tp-pendrive-s3-wifi-dongle",
-    "name": "Pendrive S3 Wi-Fi Dongle",
-    "description": "USB Wi-Fi dongle firmware for the ThingPulse ESP32-S3 Pendrive.",
+    "id": "tp-esp32-s3-wifi-dongle",
+    "name": "ESP32 S3 Wi-Fi Dongle",
+    "description": "USB Wi-Fi dongle firmware for the ESP32-S3.",
     "supportedDevices": [
-      "tp-pendrive-s3"
+      "esp32-s3"
     ],
     "tags": [
       "wifi",
